@@ -5,7 +5,9 @@ A simple and clean Android Notes app built with Kotlin, designed to help you tak
 ## Screenshots and Demo
 
 |[Demo Video](https://github.com/29tejasvi/Notes-Application/blob/master/Screenshots/Screen_recording.mp4)|
+-----------------
 |![Notes Screenshot1](https://github.com/29tejasvi/NotesApplication/blob/master/Screenshots/Screenshot_20250408_102217.png)|
+-----------------
 |![Notes Screenshot2](https://github.com/29tejasvi/Notes-Application/blob/master/Screenshots/updating.png)|
 
 ## Features
