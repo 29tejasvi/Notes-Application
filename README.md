@@ -1,4 +1,7 @@
-Demo Video
+## 🎥 Demo Video
+
+[Watch Demo](Screenshots/Screen_recording.mp4)
+
 
 
 Notes App--->
