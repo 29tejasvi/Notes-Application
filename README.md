@@ -4,9 +4,11 @@ A simple and clean Android Notes app built with Kotlin, designed to help you tak
 
 ## Screenshots and Demo
 
-| Recording | Gameplay | Win Animation |
-|-------------|----------|----------------|
-|![App Recording]([recording/Screenshot_20250408_111304.png](https://github.com/29tejasvi/Notes-Application/blob/master/Screenshots/Screen_recording.mp4))| ![App Screenshot]([recording/gameUiSs.pn](https://github.com/29tejasvi/Notes-Application/blob/master/Screenshots/Screenshot_20250408_102217.png))| ![App Screenshot]([recording/gameplaying.png](https://github.com/29tejasvi/Notes-Application/blob/master/Screenshots/updating.png))|
+[Demo Video](https://github.com/29tejasvi/Notes-Application/blob/master/Screenshots/Screen_recording.mp4)
+
+| Home Screen | Updating or Creating New Note Screen |
+|-------------|----------|
+|![App Screenshot](https://github.com/29tejasvi/Notes-Application/blob/master/Screenshots/Screenshot_20250408_102217.png)| ![App Screenshot](https://github.com/29tejasvi/Notes-Application/blob/master/Screenshots/updating.png)| 
 
 ## Features
 
